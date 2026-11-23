@@ -1,0 +1,14 @@
+# Companies House bulk snapshot: too large for GitHub (see README, "Data used")
+BasicCompanyData*.csv
+BasicCompanyData*.zip
+
+# local environment
+.venv/
+__pycache__/
+.pytest_cache/
+
+# downloaded company accounts (large; regenerate with turnover.py)
+results/ixbrl/
+
+# never commit API keys
+.env

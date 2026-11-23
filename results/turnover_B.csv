@@ -1,0 +1,251 @@
+CompanyNumber,CompanyName,Accounts.AccountCategory,SICCode.SicText_1,turnover,period_start,period_end,tag,revenue_like_tags,note,expectation
+01835168,ERIC WRIGHT WATER LIMITED,FULL,42910 - Construction of water projects,,,,,,no_ixbrl(AA),turnover_not_published
+12624347,AGORA BIDCO LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02798293,SUBSEA 7 WEST AFRICA CONTRACTING LIMITED,FULL,43999 - Other specialised construction activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+01090667,ORCHID ORTHOPEDIC SOLUTIONS SHEFFIELD LTD,FULL,32500 - Manufacture of medical and dental instruments and supplies,,,,,,no_ixbrl(AA),turnover_not_published
+04774153,LLOYD'S REGISTER CENTRAL AND SOUTH AMERICA LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+07209710,MOUNT ANVIL NEW HOLDINGS LIMITED,GROUP,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+13239725,MEDIPLUS HOLDINGS LIMITED,GROUP,82990 - Other business support service activities n.e.c.,15822036.0,,,text:Turnover (untagged),,filed 2026-06-24,group_turnover_holding_uncertain
+03220919,HMM (EUROPE) LIMITED,FULL,50200 - Sea and coastal freight water transport,,,,,,no_ixbrl(AA),turnover_not_published
+08776727,ICHIBAN UK LIMITED,FULL,10890 - Manufacture of other food products n.e.c.,29630494.0,2023-09-30,2024-09-27,e:TurnoverRevenue,,filed 2025-09-11,expected_registered
+06217134,HUBBARD PRODUCTS LIMITED,FULL,28250 - Manufacture of non-domestic cooling and ventilation equipment,23083445.0,,,text:Turnover (untagged),,filed 2025-12-02,expected_registered
+FC041289,VIVA TOPCO LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+14186908,ENVISION ENERGY INTERNATIONAL UK LIMITED,FULL,42220 - Construction of utility projects for electricity and telecommunications,12274116.0,2024-01-01,2024-12-31,c:TurnoverRevenue,,filed 2026-03-06,expected_registered
+04724906,APRILGRANGE LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+13386121,INTEC BUSINESS HOLDINGS LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+03746649,STEVE GREGOR PLUMBING AND HEATING LIMITED,FULL,"43220 - Plumbing, heat and air-conditioning installation",22551751.0,2024-08-01,2025-07-31,core:TurnoverRevenue,,filed 2026-01-28,expected_registered
+12428205,JUST AUTOMOTIVE HOLDINGS LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,filed 2026-04-02,turnover_not_published
+02396772,PEOPLE SOLUTIONS RESOURCING LIMITED,MEDIUM,78200 - Temporary employment agency activities,,,,,,no_ixbrl(AA),turnover_not_published
+09775525,EURIZON SLJ CAPITAL LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+15748325,STG PARTNERS UK LIMITED,FULL,66300 - Fund management activities,6819314.0,,,text:Revenue (untagged),,filed 2026-08-13,uncertain_exempt_sector
+SC467099,SAVANNAH ENERGY 2 LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+10990746,TONIES UK LIMITED,FULL,"46431 - Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played",,,,,,no_ixbrl(AA),turnover_not_published
+06973805,VALUELIGHTS LIMITED,FULL,47910 - Retail sale via mail order houses or via Internet,14298776.0,2024-07-01,2025-06-30,core:TurnoverRevenue,,filed 2026-03-30,expected_registered
+02271807,CNLR HORIZONS LIMITED,FULL,86900 - Other human health activities,,,,,,no_ixbrl(AA),turnover_not_published
+OC365712,CMS CAMERON MCKENNA NABARRO OLSWANG (SINGAPORE) LLP,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+00283695,SMART APPROACH GROUP PLC,GROUP,7415 - Holding Companies including Head Offices,,,,,,no_accounts_filed,turnover_not_published
+05598528,MAMG ASSET MANAGEMENT LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+NI033250,ENERGIA GROUP NI HOLDINGS LIMITED,FULL,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+03118990,ROBERTS HOMES (NORTH WALES) LIMITED,GROUP,87100 - Residential nursing care facilities,,,,,ns5:RevenueRecognitionPolicy,filed 2025-12-09,turnover_not_published
+08578451,SANTOS (UK) LIMITED,FULL,06100 - Extraction of crude petroleum,,,,,,no_ixbrl(AA),turnover_not_published
+14111862,ASCENSION CATHOLIC ACADEMY TRUST,GROUP,85200 - Primary education,,,,,,no_ixbrl(AA),turnover_not_published
+07800703,DBAY UK LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+11018290,NORTH SP GROUP LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+08298795,LOUSIN HOLDINGS LIMITED,GROUP,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+OC308106,ZERO THREE CARE HOMES LLP,FULL,None Supplied,16227298.0,,,text:Turnover (untagged),,filed 2026-07-09,uncertain_no_sic
+FC022016,SIRIUS APPLIED TECHNOLOGY LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+11058693,PHINIA FINANCIAL OPERATIONS UK LIMITED,FULL,64205 - Activities of financial services holding companies,,,,,,no_ixbrl(AA),turnover_not_published
+00301317,ENI ULT LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05933192,GALLAGHER HOLDINGS (UK) LIMITED,FULL,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+12231361,THE PEBBLE GROUP PLC,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02472965,THE WILLIAM HARVEY RESEARCH FOUNDATION,GROUP,72110 - Research and experimental development on biotechnology,,,,,,no_ixbrl(AA),turnover_not_published
+04756850,3B CONSTRUCTION LTD,FULL,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+03693465,"BRINK'S GLOBAL SERVICES, LTD.",FULL,52242 - Cargo handling for air transport activities,,,,,,no_ixbrl(AA),turnover_not_published
+14147117,POLARSEAL HOLDINGS LIMITED,GROUP,32500 - Manufacture of medical and dental instruments and supplies,18218444.0,,,text:Turnover (untagged),,filed 2026-05-15,group_turnover_holding_uncertain
+FC038761,R. BASILDON PROPCO LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+01221175,QUINN RADIATORS LIMITED,FULL,32990 - Other manufacturing n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05735966,SSP GROUP PLC,GROUP,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+05375370,KINECX ENERGY LIMITED,FULL,35220 - Distribution of gaseous fuels through mains,,,,,,no_ixbrl(AA),turnover_not_published
+02074320,MAREL GB LTD,FULL,"46140 - Agents involved in the sale of machinery, industrial equipment, ships and aircraft",,,,,,no_ixbrl(AA),turnover_not_published
+04160087,CHARACTER WORLD LIMITED,MEDIUM,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02067042,CRAWFORD & COMPANY ADJUSTERS LIMITED,FULL,66290 - Other activities auxiliary to insurance and pension funding,,,,,,no_ixbrl(AA),turnover_not_published
+13803027,TUWELLS LTD,MICRO ENTITY,46900 - Non-specialised wholesale trade,,,,,,filed 2025-12-16,turnover_not_published
+12637280,PATEZO SERVICES LTD,MICRO ENTITY,81229 - Other building and industrial cleaning activities,,,,,,filed 2026-06-23,turnover_not_published
+11546746,MURRAY INTERIORS (UK) LIMITED,MICRO ENTITY,43310 - Plastering,,,,,,filed 2026-06-17,turnover_not_published
+OC423264,THURSTON HAMBLIN LLP,MICRO ENTITY,None Supplied,,,,,,filed 2026-08-07,turnover_not_published
+03227764,PATEL ENTERPRISES LIMITED,MICRO ENTITY,82990 - Other business support service activities n.e.c.,,,,,,filed 2026-04-17,turnover_not_published
+14058005,N&J DANIEL LTD,MICRO ENTITY,58110 - Book publishing,,,,,,filed 2025-12-10,turnover_not_published
+12523004,AMELIA HOUSE PROPERTY COMPANY LIMITED,MICRO ENTITY,68320 - Management of real estate on a fee or contract basis,,,,,,filed 2025-12-19,turnover_not_published
+10594056,LOCATION LOGISTICS LIMITED,MICRO ENTITY,49390 - Other passenger land transport,,,,,,filed 2026-11-19,turnover_not_published
+04656181,GREAT BARR TANNING CENTRE LIMITED,MICRO ENTITY,96090 - Other service activities n.e.c.,,,,,,filed 2026-02-25,turnover_not_published
+07936449,THE GUILD OF COLON HYDROTHERAPISTS LTD,MICRO ENTITY,94120 - Activities of professional membership organizations,,,,,,filed 2025-06-18,turnover_not_published
+05062283,INSIDEZONE LIMITED,MICRO ENTITY,86210 - General medical practice activities,,,,,,filed 2025-12-04,turnover_not_published
+SC593772,THE PLUG EVENTS LIMITED,MICRO ENTITY,90020 - Support activities to performing arts,,,,,,filed 2026-03-17,turnover_not_published
+SC702915,MYOLLA LTD,MICRO ENTITY,62012 - Business and domestic software development,,,,,,filed 2026-03-04,turnover_not_published
+11175361,ZOJS LIMITED,MICRO ENTITY,68100 - Buying and selling of own real estate,,,,,,filed 2026-03-20,turnover_not_published
+10600875,THE MALTINGS TAPHOUSE LTD,MICRO ENTITY,47250 - Retail sale of beverages in specialised stores,,,,,,filed 2026-10-01,turnover_not_published
+15648401,THE AUDIO SESSION (UK) LIMITED,MICRO ENTITY,"46439 - Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CD's & video tapes and the equipment used for playing them)",,,,,,filed 2026-08-23,turnover_not_published
+13463937,JAGHUT CAPITAL LIMITED,MICRO ENTITY,64205 - Activities of financial services holding companies,,,,,,filed 2026-09-09,turnover_not_published
+12986007,MT ABBOTT LIMITED,MICRO ENTITY,56302 - Public houses and bars,,,,,,filed 2026-04-17,turnover_not_published
+15993481,DR LAURA AESTHETICS LTD,MICRO ENTITY,86220 - Specialists medical practice activities,,,,,,filed 2026-07-01,turnover_not_published
+11879073,TEW CONSULTANCY LTD,MICRO ENTITY,70229 - Management consultancy activities other than financial management,,,,,,filed 2025-12-24,turnover_not_published
+09320631,GP TEC LTD,MICRO ENTITY,62012 - Business and domestic software development,,,,,,filed 2026-07-02,turnover_not_published
+07659127,A R PROPERTY (MIDLANDS) LIMITED,MICRO ENTITY,68201 - Renting and operating of Housing Association real estate,,,,,,filed 2026-07-10,turnover_not_published
+10651263,JENUE LTD,MICRO ENTITY,62090 - Other information technology service activities,,,,,,filed 2026-07-17,turnover_not_published
+00172526,POTTERS PRESS LIMITED,MICRO ENTITY,68209 - Other letting and operating of own or leased real estate,,,,,,filed 2026-08-07,turnover_not_published
+14843970,KHAOS NAIL BAR LTD,MICRO ENTITY,96020 - Hairdressing and other beauty treatment,,,,,,filed 2026-02-25,turnover_not_published
+14399571,BRANDS REVIEW MAGAZINE LTD,MICRO ENTITY,18130 - Pre-press and pre-media services,,,,,,filed 2026-03-24,turnover_not_published
+14625779,DAR DEVELOPMENT AND RENOVATION LIMITED,MICRO ENTITY,41100 - Development of building projects,,,,,,filed 2025-09-16,turnover_not_published
+SC311619,KENNETH MACLEAN LIMITED,MICRO ENTITY,59113 - Television programme production activities,,,,,,filed 2025-12-01,turnover_not_published
+12318177,FLOURISHING SOLUTIONS LIMITED,MICRO ENTITY,85590 - Other education n.e.c.,,,,,,filed 2026-08-31,turnover_not_published
+11325931,OAKLANDS MEWS MANAGEMENT COMPANY LIMITED,MICRO ENTITY,98000 - Residents property management,1997.0,2024-05-01,2025-04-30,ns5:TurnoverRevenue,,filed 2026-01-15,below_threshold_voluntary_possible
+11419014,MONOWIDE LTD,MICRO ENTITY,70229 - Management consultancy activities other than financial management,,,,,,filed 2025-12-01,turnover_not_published
+12833451,AMVY DIGITAL LIMITED,MICRO ENTITY,73110 - Advertising agencies,,,,,,filed 2026-05-30,turnover_not_published
+13122526,CAROTO LIMITED,MICRO ENTITY,96090 - Other service activities n.e.c.,,,,,,filed 2026-06-22,turnover_not_published
+SC554786,SPACE INNOVATION ROBOTICS LTD,MICRO ENTITY,71122 - Engineering related scientific and technical consulting activities,,,,,,filed 2026-10-25,turnover_not_published
+10906648,THE DOG HOUSE (LEICESTER) LTD,MICRO ENTITY,96090 - Other service activities n.e.c.,,,,,,filed 2026-05-14,turnover_not_published
+15987558,WORLD LIFE GLOBAL LTD,MICRO ENTITY,55209 - Other holiday and other collective accommodation,,,,,,filed 2026-06-26,turnover_not_published
+02832517,MONMART LIMITED,MICRO ENTITY,70229 - Management consultancy activities other than financial management,,,,,,filed 2026-04-08,turnover_not_published
+SC388283,BIKERS BOUTIQUE LIMITED,MICRO ENTITY,"47640 - Retail sale of sports goods, fishing gear, camping goods, boats and bicycles",,,,,,filed 2026-08-31,turnover_not_published
+06141181,GRAY CONTROLS LIMITED,MICRO ENTITY,43999 - Other specialised construction activities n.e.c.,,,,,,filed 2026-02-02,turnover_not_published
+14988621,COPIA SOLUTIONS LIMITED,MICRO ENTITY,52103 - Operation of warehousing and storage facilities for land transport activities,,,,,,filed 2026-09-29,turnover_not_published
+06761289,SUNSTAR (UK) LTD,MICRO ENTITY,"47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating",,,,,,filed 2026-09-28,turnover_not_published
+SC810598,HEWETT TRADING LTD,MICRO ENTITY,62020 - Information technology consultancy activities,,,,,,filed 2026-02-10,turnover_not_published
+04139806,P & R CHAMBERS LIMITED,MICRO ENTITY,43210 - Electrical installation,,,,,,filed 2026-10-27,turnover_not_published
+13260051,LONDON CONSULTANCY AND BUSINESS SOLUTIONS LTD,MICRO ENTITY,69201 - Accounting and auditing activities,,,,,,filed 2025-12-12,turnover_not_published
+06496027,ORBELL & COMPANY LIMITED,MICRO ENTITY,70229 - Management consultancy activities other than financial management,,,,,,filed 2026-11-03,turnover_not_published
+08835259,TANG MEDICAL LIMITED,MICRO ENTITY,86210 - General medical practice activities,,,,,,filed 2026-07-17,turnover_not_published
+09825047,HIGHFIELD ROAD OFFLICENCE LTD,MICRO ENTITY,"47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating",,,,,,filed 2026-06-29,turnover_not_published
+15967736,ANCHR LTD,MICRO ENTITY,62012 - Business and domestic software development,,,,,,filed 2026-07-19,turnover_not_published
+02451041,FARNISH & COMPANY LIMITED,MICRO ENTITY,73120 - Media representation services,,,,,,filed 2026-06-24,turnover_not_published
+14607530,SHUSH INSTRUMENTS LTD,MICRO ENTITY,32200 - Manufacture of musical instruments,,,,,,filed 2025-10-31,turnover_not_published
+17389285,NATIONWIDE FURNITURE LTD,NO ACCOUNTS FILED,31090 - Manufacture of other furniture,,,,,,no_accounts_filed,turnover_not_published
+LP014834,HEIR HUNTERS DIRECT LP,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+LP012055,ASSOCIATED SUB-CONTRACTORS IN LIMITED PARTNERSHIP WITH DANIEL DUNNE,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+17490102,PORTMAN TOPCO LIMITED,NO ACCOUNTS FILED,64209 - Activities of other holding companies n.e.c.,,,,,,no_accounts_filed,turnover_not_published
+16946457,POINTWAY HOMES LTD,NO ACCOUNTS FILED,68100 - Buying and selling of own real estate,,,,,,no_accounts_filed,turnover_not_published
+CE009584,Saving Saints and Big Paws Rescue UK,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+LP024768,THE E&A LEGACY INVESTMENTS LIMITED PARTNERSHIP,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+CE018280,WONERSH VILLAGE FOUNDATION CIO,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+16476490,KHY AUTO SOLUTIONS LTD,NO ACCOUNTS FILED,45200 - Maintenance and repair of motor vehicles,,,,,,no_accounts_filed,turnover_not_published
+17083576,GLORIA'S FOOD LIMITED,NO ACCOUNTS FILED,56103 - Take-away food shops and mobile food stands,,,,,,no_accounts_filed,turnover_not_published
+16974100,SWANSTONE TRADING LIMITED,NO ACCOUNTS FILED,96090 - Other service activities n.e.c.,,,,,,no_accounts_filed,turnover_not_published
+17078624,MILLS LEISURE GROUP LTD,NO ACCOUNTS FILED,64209 - Activities of other holding companies n.e.c.,,,,,,no_accounts_filed,turnover_not_published
+17344832,SQUOOT LTD,NO ACCOUNTS FILED,62012 - Business and domestic software development,,,,,,no_accounts_filed,turnover_not_published
+16898413,LLOYD WINTER PARTNERS LTD,NO ACCOUNTS FILED,68100 - Buying and selling of own real estate,,,,,,no_accounts_filed,turnover_not_published
+17491800,DAE GROUP LTD,NO ACCOUNTS FILED,64202 - Activities of production holding companies,,,,,,no_accounts_filed,turnover_not_published
+17476698,RASS HOLDINGS LTD,NO ACCOUNTS FILED,68209 - Other letting and operating of own or leased real estate,,,,,,no_accounts_filed,turnover_not_published
+16589910,YOTER TOV LTD,NO ACCOUNTS FILED,88990 - Other social work activities without accommodation n.e.c.,,,,,,no_accounts_filed,turnover_not_published
+17402825,DISORDERLY BEHAVIOUR LTD,NO ACCOUNTS FILED,47910 - Retail sale via mail order houses or via Internet,,,,,,no_accounts_filed,turnover_not_published
+16745473,RAS OASIS LUXURY HOMES LTD,NO ACCOUNTS FILED,68100 - Buying and selling of own real estate,,,,,,no_accounts_filed,turnover_not_published
+17339406,KOLO PROJECT LIMITED,NO ACCOUNTS FILED,68100 - Buying and selling of own real estate,,,,,,no_accounts_filed,turnover_not_published
+17079155,ECPROPERTIES07 LIMITED,NO ACCOUNTS FILED,41100 - Development of building projects,,,,,,no_accounts_filed,turnover_not_published
+16947130,THE CBT CLINIC LTD,NO ACCOUNTS FILED,86900 - Other human health activities,,,,,,no_accounts_filed,turnover_not_published
+CS007812,TARLAND WELFARE TRUST SCIO,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+16647969,RELIANCE AUTO CARS LTD,NO ACCOUNTS FILED,45112 - Sale of used cars and light motor vehicles,,,,,,no_accounts_filed,turnover_not_published
+SC898355,CHICHU LIMITED,NO ACCOUNTS FILED,61900 - Other telecommunications activities,,,,,,no_accounts_filed,turnover_not_published
+17325334,SKK LETTINGS LTD,NO ACCOUNTS FILED,68100 - Buying and selling of own real estate,,,,,,no_accounts_filed,turnover_not_published
+17156554,TRISTAN INDEPENDENT TRADERS LTD,NO ACCOUNTS FILED,47910 - Retail sale via mail order houses or via Internet,,,,,,no_accounts_filed,turnover_not_published
+17237684,S FEENEY DESIGN LTD,NO ACCOUNTS FILED,74100 - specialised design activities,,,,,,no_accounts_filed,turnover_not_published
+16503929,BIC EVENTS LTD,NO ACCOUNTS FILED,"74909 - Other professional, scientific and technical activities n.e.c.",,,,,,no_accounts_filed,turnover_not_published
+16964804,NEXTGEN WOODEN PALLETS AND PLASTIC CRATES LTD,NO ACCOUNTS FILED,49410 - Freight transport by road,,,,,,no_accounts_filed,turnover_not_published
+16811924,ZEALEY CONSULTING LTD,NO ACCOUNTS FILED,70229 - Management consultancy activities other than financial management,,,,,,no_accounts_filed,turnover_not_published
+CE003743,Lifespring,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+LP010680,CIS PARTNERSHIP LIMITED IN LIMITED PARTNERSHIP WITH ELGUDZA CHASIJA,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+NI730064,SORTIMO STATION NI LTD,NO ACCOUNTS FILED,45320 - Retail trade of motor vehicle parts and accessories,,,,,,no_accounts_filed,turnover_not_published
+17532587,WAISHE HEALTH AND CLINICAL SERVICES LIMITED,NO ACCOUNTS FILED,78200 - Temporary employment agency activities,,,,,,no_accounts_filed,turnover_not_published
+17173065,SAINT AND STORY LOGISTICS LTD,NO ACCOUNTS FILED,49410 - Freight transport by road,,,,,,no_accounts_filed,turnover_not_published
+CE045058,NEXT LEVEL FOUNDATION,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+16765771,KENDAL PARENT NETWORK CIC,NO ACCOUNTS FILED,86900 - Other human health activities,,,,,,no_accounts_filed,turnover_not_published
+16847844,BIG MAMA'S GRILL LTD,NO ACCOUNTS FILED,56103 - Take-away food shops and mobile food stands,,,,,,no_accounts_filed,turnover_not_published
+16081133,ST MARGARETS DENTAL LTD,NO ACCOUNTS FILED,86230 - Dental practice activities,,,,,core:RevenueRecognitionPolicy,filed 2026-11-06,turnover_not_published
+17303668,PWST INVESTMENTS LIMITED,NO ACCOUNTS FILED,64991 - Security dealing on own account,,,,,,no_accounts_filed,turnover_not_published
+17113309,SYLVA CYBER & PROTECTION LTD,NO ACCOUNTS FILED,80100 - Private security activities,,,,,,no_accounts_filed,turnover_not_published
+16696266,TRANSNATIONAL ADVANCED RESEARCH ACADEMIC JOURNAL LIMITED,NO ACCOUNTS FILED,58141 - Publishing of learned journals,,,,,,no_accounts_filed,turnover_not_published
+16861643,OAKLAN SERVICES LTD,NO ACCOUNTS FILED,43330 - Floor and wall covering,,,,,,no_accounts_filed,turnover_not_published
+16296855,25 ELEVEN PARTNERS LIMITED,NO ACCOUNTS FILED,64991 - Security dealing on own account,,,,,,filed 2026-11-18,turnover_not_published
+16684473,HOUSE OF FOOD LIMITED,NO ACCOUNTS FILED,56102 - Unlicensed restaurants and cafes,,,,,,no_accounts_filed,turnover_not_published
+SC891350,CROMALT LTD,NO ACCOUNTS FILED,62012 - Business and domestic software development,,,,,,no_accounts_filed,turnover_not_published
+SL020820,AK STRATEGY L.P.,NO ACCOUNTS FILED,None Supplied,,,,,,no_accounts_filed,turnover_not_published
+17446297,INTRUECHO LTD,NO ACCOUNTS FILED,46190 - Agents involved in the sale of a variety of goods,,,,,,no_accounts_filed,turnover_not_published
+16813591,THE MICRO WEAVE LIMITED,NO ACCOUNTS FILED,96020 - Hairdressing and other beauty treatment,,,,,,no_accounts_filed,turnover_not_published
+SC513856,SHABBY CHIC (SCOTLAND) LIMITED,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,ns5:RevenueRecognitionPolicy,filed 2026-05-29,turnover_not_published
+10052139,TENBURY HOLDING LTD,TOTAL EXEMPTION FULL,82990 - Other business support service activities n.e.c.,,,,,core:RevenueRecognitionPolicy,filed 2026-08-27,turnover_not_published
+02981061,CAMBRIA HOMES LIMITED,TOTAL EXEMPTION FULL,41202 - Construction of domestic buildings,46095.0,2024-01-01,2024-12-31,core:TurnoverRevenue,,filed 2025-09-12,below_threshold_voluntary_possible
+04701062,COLIN ATKINSON TRANSPORT LIMITED,TOTAL EXEMPTION FULL,49410 - Freight transport by road,,,,,core:RevenueRecognitionPolicy,filed 2025-11-17,turnover_not_published
+SC420900,A DUNLOP CONSULTING LIMITED,TOTAL EXEMPTION FULL,71129 - Other engineering activities,,,,,ns5:RevenueRecognitionPolicy,filed 2026-04-23,turnover_not_published
+04781200,NEWPORT BUTCHERS AND BAKERS LIMITED,TOTAL EXEMPTION FULL,47220 - Retail sale of meat and meat products in specialised stores,,,,,frs-core:RevenueRecognitionPolicy,filed 2026-04-28,turnover_not_published
+13719964,RSJ GROUP HOLDINGS LTD,SMALL,68209 - Other letting and operating of own or leased real estate,,,,,core:RevenueRecognitionPolicy,filed 2025-12-22,turnover_not_published
+SC638248,CHARTERS PROPERTIES LIMITED,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,core:RevenueRecognitionPolicy,filed 2026-05-28,turnover_not_published
+04252134,NAC LIMITED,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,,filed 2026-04-27,turnover_not_published
+OC389238,SEA-VIXEN LLP,SMALL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+16028266,HILL VALLEY SOLUTIONS LTD,TOTAL EXEMPTION FULL,62090 - Other information technology service activities,,,,,,filed 2026-07-02,turnover_not_published
+13057275,CHAMBORD LIMITED,TOTAL EXEMPTION FULL,68100 - Buying and selling of own real estate,,,,,core:RevenueRecognitionPolicy,filed 2026-03-13,turnover_not_published
+03432380,TURNOAK PROPERTIES LIMITED,TOTAL EXEMPTION FULL,64929 - Other credit granting n.e.c.,,,,,core:RevenueRecognitionPolicy,filed 2025-12-22,turnover_not_published
+08224818,ADBE LTD,TOTAL EXEMPTION FULL,82990 - Other business support service activities n.e.c.,,,,,,filed 2025-12-23,turnover_not_published
+14843815,GIA LABORATORY SERVICES UK LIMITED,SMALL,71200 - Technical testing and analysis,,,,,,no_ixbrl(AA),turnover_not_published
+13975974,TK3N PROPERTIES LTD,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,ns5:RevenueRecognitionPolicy,filed 2026-06-02,turnover_not_published
+14291243,J & M COACHWORKS LTD,TOTAL EXEMPTION FULL,45200 - Maintenance and repair of motor vehicles,,,,,frs-core:RevenueRecognitionPolicy,filed 2026-05-28,turnover_not_published
+SC252762,FUTURE FORESTRY LTD.,TOTAL EXEMPTION FULL,02400 - Support services to forestry,,,,,ns5:RevenueRecognitionPolicy,filed 2026-06-09,turnover_not_published
+15796334,LIGHTHOUSE FAMILY CENTRE COMMUNITY INTEREST COMPANY,TOTAL EXEMPTION FULL,88910 - Child day-care activities,,,,,core:CostSales,filed 2026-02-23,turnover_not_published
+13897625,DIAMOND92 LTD,TOTAL EXEMPTION FULL,49390 - Other passenger land transport,,,,,,filed 2026-03-24,turnover_not_published
+03530549,DIAMOND DANCE LIMITED,TOTAL EXEMPTION FULL,90030 - Artistic creation,,,,,,no_ixbrl(AA),turnover_not_published
+16156986,WEBLINE LTD,TOTAL EXEMPTION FULL,64209 - Activities of other holding companies n.e.c.,,,,,,filed 2026-09-25,turnover_not_published
+03285247,KIRTLE LTD.,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,ns5:RevenueRecognitionPolicy,filed 2026-09-22,turnover_not_published
+07576394,BRILLIANCE ACADEMY LIMITED,TOTAL EXEMPTION FULL,85590 - Other education n.e.c.,,,,,ns5:RevenueRecognitionPolicy,filed 2026-03-30,turnover_not_published
+11274031,BEST SYSTEMS SOLUTIONS LTD,TOTAL EXEMPTION FULL,95210 - Repair of consumer electronics,,,,,core:RevenueRecognitionPolicy,filed 2026-09-22,turnover_not_published
+07164009,CARTERS LODGE FARM LIMITED,TOTAL EXEMPTION FULL,01410 - Raising of dairy cattle,,,,,core:RevenueRecognitionPolicy;core:SalesDisposalsBiologicalAssetsCostModel,filed 2025-12-19,turnover_not_published
+08472334,BLACKBERRY FARM LIMITED,TOTAL EXEMPTION FULL,01420 - Raising of other cattle and buffaloes,,,,,,filed 2026-01-31,turnover_not_published
+13262484,LET'S GROW AGENCY LTD,TOTAL EXEMPTION FULL,62090 - Other information technology service activities,,,,,core:RevenueRecognitionPolicy,filed 2026-11-20,turnover_not_published
+09504074,UZAIR ASSOCIATES LIMITED,TOTAL EXEMPTION FULL,86900 - Other human health activities,,,,,core:RevenueRecognitionPolicy,filed 2026-01-26,turnover_not_published
+07432811,SUSSEX PAYROLL SERVICES LIMITED,TOTAL EXEMPTION FULL,82990 - Other business support service activities n.e.c.,,,,,frs-core:RevenueRecognitionPolicy;frs-core:SalesMarketingDistributionAverageNumberEmployees,filed 2025-11-26,turnover_not_published
+10064549,JBM SOLAR PROJECTS LTD,TOTAL EXEMPTION FULL,64301 - Activities of investment trusts,,,,,,filed 2025-11-25,turnover_not_published
+03480671,DAWNLEA ENTERPRISES LIMITED,TOTAL EXEMPTION FULL,62020 - Information technology consultancy activities,,,,,ns5:RevenueRecognitionPolicy,filed 2026-07-27,turnover_not_published
+14013965,GROUND WORK GALLERY PROJECTS CIC,TOTAL EXEMPTION FULL,85520 - Cultural education,,,,,core:RevenueRecognitionPolicy,filed 2025-06-18,turnover_not_published
+08108219,DIXON CONSTRUCTION ( NORTH EAST ) LIMITED,TOTAL EXEMPTION FULL,43999 - Other specialised construction activities n.e.c.,,,,,core:RevenueRecognitionPolicy,filed 2025-12-09,turnover_not_published
+14673694,DGF ANDREI LTD,TOTAL EXEMPTION FULL,41201 - Construction of commercial buildings,,,,,,filed 2026-08-20,turnover_not_published
+07522068,COTTLE & RICHARDSON LIMITED,TOTAL EXEMPTION FULL,56101 - Licensed restaurants,,,,,core:RevenueRecognitionPolicy,filed 2025-12-27,turnover_not_published
+02252225,L.J. SMITH & CO. LIMITED,TOTAL EXEMPTION FULL,68320 - Management of real estate on a fee or contract basis,,,,,ns5:RevenueRecognitionPolicy,filed 2025-12-17,turnover_not_published
+13619846,MAWI HEALTH LIMITED,TOTAL EXEMPTION FULL,62012 - Business and domestic software development,,,,,frs-core:RevenueRecognitionPolicy,filed 2026-05-05,turnover_not_published
+13981179,S&G ESTATE GROUP LIMITED,TOTAL EXEMPTION FULL,68100 - Buying and selling of own real estate,,,,,core:RevenueRecognitionCriticalEstimatesJudgements,filed 2026-09-28,turnover_not_published
+09016299,VANWALL PROPERTY DEVELOPMENT LIMITED,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,,no_ixbrl(AA),turnover_not_published
+15461461,LME DEVELOPMENTS LIMITED,UNAUDITED ABRIDGED,41100 - Development of building projects,,,,,,filed 2025-10-31,turnover_not_published
+05000066,BUCKLAND GARDEN SERVICES LTD,TOTAL EXEMPTION FULL,81300 - Landscape service activities,,,,,core:RevenueRecognitionPolicy,filed 2026-05-26,turnover_not_published
+05614749,SOVEREIGN MEWS FREEHOLD LIMITED,TOTAL EXEMPTION FULL,98000 - Residents property management,,,,,core:RevenueRecognitionPolicy,filed 2025-11-14,turnover_not_published
+16264491,AZ ENGINEERING CONSULTANCY LTD,TOTAL EXEMPTION FULL,70229 - Management consultancy activities other than financial management,,,,,core:RevenueRecognitionPolicy,filed 2026-09-28,turnover_not_published
+04307132,LIMBER LIMITED,TOTAL EXEMPTION FULL,68209 - Other letting and operating of own or leased real estate,,,,,ns5:RevenueRecognitionPolicy,filed 2026-06-29,turnover_not_published
+15852918,DANCE ARTISTS NORTH EAST CIC,TOTAL EXEMPTION FULL,78200 - Temporary employment agency activities,,,,,,no_ixbrl(AA),turnover_not_published
+02306908,J & C VOYAGEURS LIMITED,TOTAL EXEMPTION FULL,79120 - Tour operator activities,,,,,,filed 2026-05-06,turnover_not_published
+08448388,SCEALES GUNN DESIGN LIMITED,UNAUDITED ABRIDGED,43290 - Other construction installation,,,,,,filed 2025-12-17,turnover_not_published
+03564186,SHONET SYSTEMS LIMITED,TOTAL EXEMPTION FULL,62020 - Information technology consultancy activities,,,,,frs-core:RevenueRecognitionPolicy,filed 2025-12-24,turnover_not_published
+03566359,SANGHA ESTATES LIMITED,TOTAL EXEMPTION FULL,64999 - Financial intermediation not elsewhere classified,,,,,,filed 2026-04-23,turnover_not_published
+07318895,YOLO (PONTELAND) LIMITED,AUDIT EXEMPTION SUBSIDIARY,56101 - Licensed restaurants,,,,,,no_ixbrl(AA),turnover_not_published
+SC002042,"J. & P. COATS, LIMITED",AUDIT EXEMPTION SUBSIDIARY,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+09401124,KITZINI LIMITED,AUDIT EXEMPTION SUBSIDIARY,47910 - Retail sale via mail order houses or via Internet,,,,,,no_ixbrl(AA),turnover_not_published
+05075900,PARTNERSHIPS IN CARE (MEADOW VIEW) LIMITED,AUDIT EXEMPTION SUBSIDIARY,"87200 - Residential care activities for learning difficulties, mental health and substance abuse",,,,,,no_ixbrl(AA),turnover_not_published
+06823656,GOLDERS GREEN VISIONPLUS LIMITED,AUDIT EXEMPTION SUBSIDIARY,47782 - Retail sale by opticians,,,,,,no_ixbrl(AA),turnover_not_published
+06048365,VERTU MOTORS (PROPERTY) LIMITED,AUDIT EXEMPTION SUBSIDIARY,68100 - Buying and selling of own real estate,,,,,,no_ixbrl(AA),turnover_not_published
+02824757,MORTONS CATERING LIMITED,AUDIT EXEMPTION SUBSIDIARY,56101 - Licensed restaurants,,,,,,no_ixbrl(AA),turnover_not_published
+08491628,PATERSON & COOKE (UK) LTD.,AUDIT EXEMPTION SUBSIDIARY,09900 - Support activities for other mining and quarrying,,,,,,no_ixbrl(AA),turnover_not_published
+02569703,SEVERN TRENT METERING SERVICES LIMITED,AUDIT EXEMPTION SUBSIDIARY,74990 - Non-trading company,,,,,,no_ixbrl(AA),turnover_not_published
+07659596,CARE-ABILITY HEALTHCARE LIMITED,AUDIT EXEMPTION SUBSIDIARY,28220 - Manufacture of lifting and handling equipment,,,,,,no_ixbrl(AA),turnover_not_published
+10408631,TRAFALGAR THEATRE LIMITED,AUDIT EXEMPTION SUBSIDIARY,90040 - Operation of arts facilities,,,,,,no_ixbrl(AA),turnover_not_published
+13512859,VIRIDOR ENERGY HOLDING (ONE) LIMITED,AUDIT EXEMPTION SUBSIDIARY,96090 - Other service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+03505733,BRIDGEDALE OUTDOOR LIMITED,AUDIT EXEMPTION SUBSIDIARY,14310 - Manufacture of knitted and crocheted hosiery,,,,,,no_ixbrl(AA),turnover_not_published
+13768367,33 HORSEFAIR LIMITED,AUDIT EXEMPTION SUBSIDIARY,68209 - Other letting and operating of own or leased real estate,,,,,,no_ixbrl(AA),turnover_not_published
+06920963,WILLOWGATE TROUT & SALMON FISHERY LIMITED,AUDIT EXEMPTION SUBSIDIARY,03210 - Marine aquaculture,,,,,,no_ixbrl(AA),turnover_not_published
+14427705,JMG GI5 LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+09296195,IRIS FIRM MANAGEMENT LIMITED,AUDIT EXEMPTION SUBSIDIARY,62012 - Business and domestic software development,,,,,,no_ixbrl(AA),turnover_not_published
+09475326,SIXTH CONTINENT INTELLIGENCE LIMITED,AUDIT EXEMPTION SUBSIDIARY,58190 - Other publishing activities,,,,,,no_ixbrl(AA),turnover_not_published
+08206660,CP CO 9 LIMITED,AUDIT EXEMPTION SUBSIDIARY,68209 - Other letting and operating of own or leased real estate,,,,,,no_ixbrl(AA),turnover_not_published
+14084787,PROJECT BOWDON BIDCO LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+03954387,MYKNOWLEDGEMAP LIMITED,AUDIT EXEMPTION SUBSIDIARY,62012 - Business and domestic software development,,,,,,no_ixbrl(AA),turnover_not_published
+11620166,HARVEST ENERGY RETAIL HOLDINGS LIMITED,AUDIT EXEMPTION SUBSIDIARY,47300 - Retail sale of automotive fuel in specialised stores,,,,,,no_ixbrl(AA),turnover_not_published
+01462084,ASTRIL LIMITED,AUDIT EXEMPTION SUBSIDIARY,96090 - Other service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02721728,LEGOLAND WINDSOR PARK LIMITED,AUDIT EXEMPTION SUBSIDIARY,93210 - Activities of amusement parks and theme parks,,,,,,no_ixbrl(AA),turnover_not_published
+12276116,PURPLE SUMMER LTD,AUDIT EXEMPTION SUBSIDIARY,55900 - Other accommodation,,,,,,no_ixbrl(AA),turnover_not_published
+14049061,TH FI PHASE 2 HOLDCO NO TWO LIMITED,AUDIT EXEMPTION SUBSIDIARY,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+03363593,CHELSON MEADOW ENERGY LIMITED,AUDIT EXEMPTION SUBSIDIARY,35110 - Production of electricity,,,,,,no_ixbrl(AA),turnover_not_published
+11123319,MURPHY GROUP INVESTMENTS LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+11098056,BULLET TRAINING SOLUTIONS LIMITED,AUDIT EXEMPTION SUBSIDIARY,85590 - Other education n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+SC394971,ALM SOLUTIONS LIMITED,AUDIT EXEMPTION SUBSIDIARY,64999 - Financial intermediation not elsewhere classified,,,,,,no_ixbrl(AA),turnover_not_published
+OC397001,INEI II GP (UK) LLP,AUDIT EXEMPTION SUBSIDIARY,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+00351158,WARNER HOLIDAYS LIMITED,AUDIT EXEMPTION SUBSIDIARY,55100 - Hotels and similar accommodation,,,,,,no_ixbrl(AA),turnover_not_published
+13924927,OPUS LAND NUNEATON LIMITED,AUDIT EXEMPTION SUBSIDIARY,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+12222051,NATIONAL RISK SOLUTIONS LTD,AUDIT EXEMPTION SUBSIDIARY,66220 - Activities of insurance agents and brokers,,,,,,no_ixbrl(AA),turnover_not_published
+05368869,ANIMATES VETERINARY CLINIC LIMITED,AUDIT EXEMPTION SUBSIDIARY,75000 - Veterinary activities,,,,,,no_ixbrl(AA),turnover_not_published
+05883991,STAINES SPECSAVERS HEARCARE LIMITED,AUDIT EXEMPTION SUBSIDIARY,47741 - Retail sale of hearing aids,,,,,,no_ixbrl(AA),turnover_not_published
+15248560,SYNECTICS SOLUTIONS (HOLDINGS) LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+07853548,0321 QST NEATH (FREEHOLDCO) LIMITED,AUDIT EXEMPTION SUBSIDIARY,68209 - Other letting and operating of own or leased real estate,,,,,,no_ixbrl(AA),turnover_not_published
+13639310,PUP UK HOLDCO 2 LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05680915,WESTHOPE CARE LIMITED,AUDIT EXEMPTION SUBSIDIARY,87300 - Residential care activities for the elderly and disabled,,,,,,no_ixbrl(AA),turnover_not_published
+08520570,SUNE PROJECT1 LTD,AUDIT EXEMPTION SUBSIDIARY,35110 - Production of electricity,,,,,,no_ixbrl(AA),turnover_not_published
+SO303852,LIVINGBRIDGE GENERAL PARTNER LLP,AUDIT EXEMPTION SUBSIDIARY,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+14848968,WARWICK DOMI AUDIOLOGY SPECSAVERS LIMITED,AUDIT EXEMPTION SUBSIDIARY,47741 - Retail sale of hearing aids,,,,,,no_ixbrl(AA),turnover_not_published
+02833712,SCANNERS (EUROPE) LIMITED,FILING EXEMPTION SUBSIDIARY,59113 - Television programme production activities,,,,,,no_accounts_filed,turnover_not_published
+10163607,AGRIBRIEFING FRANCE LIMITED,AUDIT EXEMPTION SUBSIDIARY,62090 - Other information technology service activities,,,,,,no_ixbrl(AA),turnover_not_published
+10446179,NEXUS CLAIMS MANAGEMENT SERVICES LTD,AUDIT EXEMPTION SUBSIDIARY,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05013600,CAB AID LIMITED,AUDIT EXEMPTION SUBSIDIARY,77110 - Renting and leasing of cars and light motor vehicles,,,,,,no_ixbrl(AA),turnover_not_published
+NI028530,BALLYMENA VISIONPLUS LIMITED,AUDIT EXEMPTION SUBSIDIARY,47782 - Retail sale by opticians,,,,,,no_ixbrl(AA),turnover_not_published
+10978383,STORAGEFOLK LIMITED,AUDIT EXEMPTION SUBSIDIARY,74990 - Non-trading company,,,,,,no_ixbrl(AA),turnover_not_published
+12758305,SOUTH DOWNS RESIDENTIAL GROUP LIMITED,AUDIT EXEMPTION SUBSIDIARY,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published

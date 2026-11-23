@@ -1,0 +1,5 @@
+{"source": "wikidata", "event": "property", "value": "P2622"}
+{"source": "wikidata", "event": "batch", "n_query": 100, "n_rows": 2, "rows": [{"crn": "09092149", "site": "https://www.starlingbank.com"}, {"crn": "04395994", "site": "https://www.parkingcontrolmanagement.co.uk/"}]}
+{"source": "wikidata", "event": "property", "value": "P2622"}
+{"source": "wikidata", "event": "batch", "n_query": 200, "n_rows": 0, "rows": []}
+{"source": "wikidata", "event": "batch", "n_query": 50, "n_rows": 0, "rows": []}

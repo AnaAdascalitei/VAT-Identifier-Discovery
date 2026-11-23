@@ -1,0 +1,101 @@
+sample,stratum,CompanyNumber,CompanyName,RegAddress.PostCode,Accounts.AccountCategory,SICCode.SicText_1,weight,domains_tried,domain,domain_source,host,site_evidence,pages_fetched,vat,vat_kind,vat_checksum,vat_url,vat_snippet,n_candidates,candidates,status
+C,large,12624347,AGORA BIDCO LIMITED,S11 8YZ,FULL,64209 - Activities of other holding companies n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,02798293,SUBSEA 7 WEST AFRICA CONTRACTING LIMITED,SM2 5BN,FULL,43999 - Other specialised construction activities n.e.c.,,7,subsea7.com,manual_ai_search,www.subsea7.com,none,1,,,,,,0,[],site_unverified
+C,large,04774153,LLOYD'S REGISTER CENTRAL AND SOUTH AMERICA LIMITED,EC3M 4BS,FULL,82990 - Other business support service activities n.e.c.,,10,lr.org,manual_ai_search,www.lr.org,name_postcode,6,,,,,,0,[],site_ok_no_vat
+C,large,07209710,MOUNT ANVIL NEW HOLDINGS LIMITED,EC1A 4HY,GROUP,41100 - Development of building projects,,13,mountanvil.com,manual_ai_search,mountanvil.com,name_postcode,4,,,,,,0,[],site_ok_no_vat
+C,large,FC041289,VIVA TOPCO LIMITED,,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,01090667,ORCHID ORTHOPEDIC SOLUTIONS SHEFFIELD LTD,S9 4WH,FULL,32500 - Manufacture of medical and dental instruments and supplies,,13,orchid-ortho.com,manual_ai_search,www.orchid-ortho.com,name_postcode,6,,,,,,0,[],site_ok_no_vat
+C,large,04724906,APRILGRANGE LIMITED,EC3M 3BD,FULL,82990 - Other business support service activities n.e.c.,,3,,,,,0,,,,,,0,,no_site_found
+C,large,14186908,ENVISION ENERGY INTERNATIONAL UK LIMITED,EC4M 7AU,FULL,42220 - Construction of utility projects for electricity and telecommunications,,13,envisionenergy.com,guess,www.domaineasy.com,name_only,1,,,,,,0,[],site_unverified
+C,large,13239725,MEDIPLUS HOLDINGS LIMITED,HP12 3SU,GROUP,82990 - Other business support service activities n.e.c.,,10,mediplusuk.com,manual_ai_search,mediplusuk.com,name_postcode,5,,,,,,0,[],site_ok_no_vat
+C,large,03746649,STEVE GREGOR PLUMBING AND HEATING LIMITED,BS30 5LW,FULL,"43220 - Plumbing, heat and air-conditioning installation",,1,gregorheating.co.uk,manual_ai_search,www.gregorheating.co.uk,crn,6,543162171,vat,mod97,https://www.gregorheating.co.uk/,Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar,6,"[{""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar""}, {""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/boilers/about-energy-efficiency-ratings-for-boilers-and-domestic-appliances/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar""}, {""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/renewable/about-energy-performance-certificates-epc-for-homes/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar""}, {""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/about-us/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar""}, {""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/about-us/careers/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media""}, {""vat"": ""543162171"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.gregorheating.co.uk/about-us/gregor-giving/"", ""same_page_as_crn"": true, ""snippet"": ""Company registered in England and Wales No. 3746649 VAT No. 543 1621 71 Gas Safe Number: 1818 Website by GWS Media ar""}]",vat_candidate
+C,large,06217134,HUBBARD PRODUCTS LIMITED,IP3 9SQ,FULL,28250 - Manufacture of non-domestic cooling and ventilation equipment,,7,hubbardproducts.com,guess,www.hubbardproducts.com,name_postcode,6,,,,,,0,[],site_ok_no_vat
+C,large,09775525,EURIZON SLJ CAPITAL LIMITED,EC4N 1SA,FULL,82990 - Other business support service activities n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,SC467099,SAVANNAH ENERGY 2 LIMITED,AB15 4YL,FULL,82990 - Other business support service activities n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,01835168,ERIC WRIGHT WATER LIMITED,PR5 6AW,FULL,42910 - Construction of water projects,,6,,,,,0,,,,,,0,,no_site_found
+C,large,13386121,INTEC BUSINESS HOLDINGS LIMITED,M4 6LZ,GROUP,64209 - Activities of other holding companies n.e.c.,,13,weareintec.co.uk,manual_ai_search,weareintec.co.uk,name_postcode,2,,,,,,0,[],site_ok_no_vat
+C,large,02271807,CNLR HORIZONS LIMITED,E1W 1AW,FULL,86900 - Other human health activities,,6,,,,,0,,,,,,0,,no_site_found
+C,large,06973805,VALUELIGHTS LIMITED,M44 5GR,FULL,47910 - Retail sale via mail order houses or via Internet,,1,valuelights.co.uk,guess,www.valuelights.co.uk,crn,5,995942647,vat,mod97,https://www.valuelights.co.uk/terms-and-conditions,"Manchester, M44 5GR Company Number: 6973805 VAT Number: GB995942647 When we say “we”, “our”, or “us”, that’s ValueLights. Wh",1,"[{""vat"": ""995942647"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.valuelights.co.uk/terms-and-conditions"", ""same_page_as_crn"": true, ""snippet"": ""Manchester, M44 5GR Company Number: 6973805 VAT Number: GB995942647 When we say “we”, “our”, or “us”, that’s ValueLights. Wh""}]",vat_candidate
+C,large,OC365712,CMS CAMERON MCKENNA NABARRO OLSWANG (SINGAPORE) LLP,EC4N 6AF,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,08776727,ICHIBAN UK LIMITED,IP30 9RT,FULL,10890 - Manufacture of other food products n.e.c.,,9,ichibanuk.co.uk,guess,ichibanuk.co.uk,name_only,3,,,,,,0,[],site_unverified
+C,large,05598528,MAMG ASSET MANAGEMENT LIMITED,BS1 6NP,FULL,82990 - Other business support service activities n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,10990746,TONIES UK LIMITED,CM23 3BT,FULL,"46431 - Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played",,9,tonies.co.uk,guess,tonies.com,name_only,5,,,,,,0,[],site_unverified
+C,large,03220919,HMM (EUROPE) LIMITED,E14 9GE,FULL,50200 - Sea and coastal freight water transport,,4,hmm.uk,guess,hmm.uk,name_only,1,,,,,,0,[],site_unverified
+C,large,00283695,SMART APPROACH GROUP PLC,LS1 4JP,GROUP,7415 - Holding Companies including Head Offices,,12,,,,,0,,,,,,0,,no_site_found
+C,large,02396772,PEOPLE SOLUTIONS RESOURCING LIMITED,WS1 1YB,MEDIUM,78200 - Temporary employment agency activities,,12,peoplesolutionsresourcing.co.uk,guess,peoplesolutionsresourcing.co.uk,name_only,1,,,,,,0,[],site_unverified
+C,large,14111862,ASCENSION CATHOLIC ACADEMY TRUST,TW1 4LT,GROUP,85200 - Primary education,,6,,,,,0,,,,,,0,,no_site_found
+C,large,07800703,DBAY UK LIMITED,EC2R 7HJ,FULL,82990 - Other business support service activities n.e.c.,,9,dbay.com,guess,dbay.com,none,1,,,,,,0,[],site_unverified
+C,large,NI033250,ENERGIA GROUP NI HOLDINGS LIMITED,BT9 5NF,FULL,70100 - Activities of head offices,,12,,,,,0,,,,,,0,,no_site_found
+C,large,08578451,SANTOS (UK) LIMITED,WC2A 3LH,FULL,06100 - Extraction of crude petroleum,,3,santos.com,guess,www.santos.com,name_only,6,,,,,,0,[],site_unverified
+C,large,12428205,JUST AUTOMOTIVE HOLDINGS LIMITED,LN2 4JA,GROUP,64209 - Activities of other holding companies n.e.c.,,12,just-automotive.com,guess,just-automotive.com,none,1,,,,,,0,[],site_unverified
+C,large,15748325,STG PARTNERS UK LIMITED,W1K 2LJ,FULL,66300 - Fund management activities,,12,stgpartners.uk,guess,stgpartners.uk,none,1,,,,,,0,[],site_unverified
+C,large,11018290,NORTH SP GROUP LIMITED,GU15 3YL,FULL,64209 - Activities of other holding companies n.e.c.,,12,northsp.com,guess,northsp.com,name_only,1,,,,,,0,[],site_unverified
+C,large,FC022016,SIRIUS APPLIED TECHNOLOGY LIMITED,GY1 3JS,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,08298795,LOUSIN HOLDINGS LIMITED,EC4R 1AG,GROUP,82990 - Other business support service activities n.e.c.,,9,lousin.co.uk,guess,www.lousin.co.uk,name_only,6,,,,,,0,[],site_unverified
+C,large,00301317,ENI ULT LIMITED,SW1W 8PZ,FULL,64209 - Activities of other holding companies n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,02472965,THE WILLIAM HARVEY RESEARCH FOUNDATION,EC1M 6BQ,GROUP,72110 - Research and experimental development on biotechnology,,6,,,,,0,,,,,,0,,no_site_found
+C,large,11058693,PHINIA FINANCIAL OPERATIONS UK LIMITED,LS1 5AB,FULL,64205 - Activities of financial services holding companies,,12,,,,,0,,,,,,0,,no_site_found
+C,large,12231361,THE PEBBLE GROUP PLC,M17 1DD,GROUP,64209 - Activities of other holding companies n.e.c.,,9,pebblegroup.co.uk,guess,pebblegroup.co.uk,name_only,1,,,,,,0,[],site_unverified
+C,large,04756850,3B CONSTRUCTION LTD,CA1 2RW,FULL,41100 - Development of building projects,,6,,,,,0,,,,,,0,,no_site_found
+C,large,OC308106,ZERO THREE CARE HOMES LLP,EC3R 6EN,FULL,None Supplied,,6,zerothreecarehomes.co.uk,guess,zerothreecare.co.uk,name_only,6,,,,,,0,[],site_unverified
+C,large,FC038761,R. BASILDON PROPCO LIMITED,JE4 0WH,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,14147117,POLARSEAL HOLDINGS LIMITED,GU9 9PZ,GROUP,32500 - Manufacture of medical and dental instruments and supplies,,9,polarseal.com,guess,polarsealwindow.com,name_only,4,,,,,,0,[],site_unverified
+C,large,03693465,"BRINK'S GLOBAL SERVICES, LTD.",TW14 0NG,FULL,52242 - Cargo handling for air transport activities,,12,brinksglobal.com,guess,brinksglobal.com,name_postcode,6,,,,,,0,[],site_ok_no_vat
+C,large,01221175,QUINN RADIATORS LIMITED,M1 4PB,FULL,32990 - Other manufacturing n.e.c.,,6,quinnradiators.com,guess,www.purmo.com,none,5,,,,,,0,[],site_unverified
+C,large,05735966,SSP GROUP PLC,NW1 7HW,GROUP,70100 - Activities of head offices,,9,sspgroup.com,guess,www.sspgroup.com,name_only,6,,,,,,0,[],site_unverified
+C,large,05375370,KINECX ENERGY LIMITED,E14 5HU,FULL,35220 - Distribution of gaseous fuels through mains,,6,kinecxenergy.co.uk,guess,kinecxenergy.co.uk,name_only,6,,,,,,0,[],site_unverified
+C,large,09081452,PINEAPPLE POWER CORPORATION PLC,SW1W 9NF,FULL,74990 - Non-trading company,,6,,,,,0,,,,,,0,,no_site_found
+C,large,12225042,LSEGA2 LIMITED,EC4M 7LS,FULL,74990 - Non-trading company,,3,,,,,0,,,,,,0,,no_site_found
+C,large,02067042,CRAWFORD & COMPANY ADJUSTERS LIMITED,EC3M 5JE,FULL,66290 - Other activities auxiliary to insurance and pension funding,,12,,,,,0,,,,,,0,,no_site_found
+C,large,05933192,GALLAGHER HOLDINGS (UK) LIMITED,EC4N 8AW,FULL,70100 - Activities of head offices,,9,gallagher.co.uk,guess,www.gallagher.eu,name_only,5,,,,,,0,[],site_unverified
+C,large,04715529,SANDRA DAVIDSON ESTATE AGENTS LIMITED,IG4 5NX,FULL,68310 - Real estate agencies,,6,,,,,0,,,,,,0,,no_site_found
+C,large,FC017532,RUCANOR EUROPE B.V.,,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,02074320,MAREL GB LTD,CF10 4BZ,FULL,"46140 - Agents involved in the sale of machinery, industrial equipment, ships and aircraft",,9,marel.co.uk,guess,jbtmarel.com,name_only,6,,,,,,0,[],site_unverified
+C,large,04160087,CHARACTER WORLD LIMITED,SK8 6QL,MEDIUM,82990 - Other business support service activities n.e.c.,,2,characterworld.com,guess,characterworld.com,crn,3,,,,,,0,[],site_ok_no_vat
+C,large,03118990,ROBERTS HOMES (NORTH WALES) LIMITED,LL15 1NJ,GROUP,87100 - Residential nursing care facilities,,6,roberts-homes.co.uk,guess,robertshomes.wales,other_crn,6,,,,,,0,[],group_or_other_company_site
+C,large,FC040796,COMMUNITY FIBRE HOLDINGS GUERNSEY LIMITED,,FULL,None Supplied,,12,,,,,0,,,,,,0,,no_site_found
+C,large,06548489,PEPPER (UK) LIMITED,UB8 1QQ,FULL,64922 - Activities of mortgage finance companies,,3,pepper.com,guess,nl.pepper.com,name_only,1,,,,,,0,[],site_unverified
+C,large,SC664318,MOLE GP 2 LIMITED,EH3 9WJ,FULL,82990 - Other business support service activities n.e.c.,,6,,,,,0,,,,,,0,,no_site_found
+C,large,OC436409,LAURUS LOVELL WHALLEY LLP,W1W 8AJ,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,09346040,SSP MIDCO 2 LIMITED,HX3 5AX,FULL,62090 - Other information technology service activities,,6,,,,,0,,,,,,0,,no_site_found
+C,large,12369633,APEX TOPCO LIMITED,M2 3DE,GROUP,64205 - Activities of financial services holding companies,,6,,,,,0,,,,,,0,,no_site_found
+C,large,13257832,SUNRISE UK TOPCO LIMITED,EC4R 1DD,GROUP,64209 - Activities of other holding companies n.e.c.,,12,,,,,0,,,,,,0,,no_site_found
+C,large,03227575,MILLENNIUM POINT TRUST,B4 7XG,GROUP,85320 - Technical and vocational secondary education,,6,,,,,0,,,,,,0,,no_site_found
+C,large,13596821,NGE HOLDINGS GP LIMITED,E14 5HU,FULL,68310 - Real estate agencies,,12,,,,,0,,,,,,0,,no_site_found
+C,large,FC009008,CYPRAIR TOURS LIMITED,,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,06729212,ESPORTA MANAGEMENT SERVICES LIMITED,EC4V 2AR,FULL,70100 - Activities of head offices,,12,,,,,0,,,,,,0,,no_site_found
+C,large,02897594,HOOBROOK HOLDINGS LIMITED,DY10 1XW,GROUP,13931 - Manufacture of woven or tufted carpets and rugs,,9,,,,,0,,,,,,0,,no_site_found
+C,large,00197935,COSBY BRUSHES (CHRH) LTD.,HP3 9SA,GROUP,32910 - Manufacture of brooms and brushes,,6,,,,,0,,,,,,0,,no_site_found
+C,large,03175203,SPINAL INJURIES ASSOCIATION,MK6 2HH,GROUP,88100 - Social work activities without accommodation for the elderly and disabled,,6,spinalinjuriesassociation.co.uk,guess,spinalinjuriesassociation.co.uk,none,1,,,,,,0,[],site_unverified
+C,large,SC070131,GLENDALE PLASTICS LIMITED,KY7 4UH,GROUP,22220 - Manufacture of plastic packing goods,,6,glendaleplastics.co.uk,guess,www.glendaleplastics.co.uk,name_only,3,,,,,,0,[],site_unverified
+C,large,09092149,STARLING BANK LIMITED,E1 6PW,GROUP,64191 - Banks,,6,starlingbank.com,wikidata,www.starlingbank.com,name_postcode,5,,,,,,0,[],site_ok_no_vat
+C,large,14746622,ENICOR GROUP LIMITED,S43 4FD,GROUP,64209 - Activities of other holding companies n.e.c.,,9,enicor.co.uk,guess,www.enicor.co.uk,name_postcode,5,,,,,,0,[],site_ok_no_vat
+C,large,06490778,VITA RAY PRODUCTIONS U.K. LIMITED,W6 9PE,FULL,59111 - Motion picture production activities,,6,,,,,0,,,,,,0,,no_site_found
+C,large,FC028068,CONNECTED SERVICES CORPORATION WIPRO INDIA PRIVATE LIMITED,,FULL,None Supplied,,3,,,,,0,,,,,,0,,no_site_found
+C,large,06327802,OPEN DOORS WITH BROTHER ANDREW,OX29 0YN,FULL,94910 - Activities of religious organizations,,6,,,,,0,,,,,,0,,no_site_found
+C,large,13768693,FRANK KEY HOLDINGS LIMITED,NG5 6BL,GROUP,46130 - Agents involved in the sale of timber and building materials,,12,frankkey.com,guess,www.frank-key.co.uk,name_postcode,5,,,,,,0,[],site_ok_no_vat
+C,large,12113472,WS TRANSPORTATION LIMITED,WA4 4ST,GROUP,52290 - Other transportation support activities,,6,,,,,0,,,,,,0,,no_site_found
+C,large,SC373245,DAVIS TRACK HIRE LTD,ML2 9BG,MEDIUM,96090 - Other service activities n.e.c.,,2,davistrackhire.com,guess,davistrackhire.com,crn,6,,,,,,0,[],site_ok_no_vat
+C,large,07459630,ASMPT UK HOLDING LIMITED,DT4 9TH,FULL,64209 - Activities of other holding companies n.e.c.,,12,,,,,0,,,,,,0,,no_site_found
+C,large,04040767,MERIT OFFICE INSTALLATIONS LIMITED,ME2 4WS,FULL,52103 - Operation of warehousing and storage facilities for land transport activities,,6,meritofficeinstallations.co.uk,guess,www.themeritgroup.co.uk,name_postcode,5,,,,,,0,[],site_ok_no_vat
+C,large,07873618,TYNEMOUTH BATTERY STORAGE LIMITED,EC4A 3TW,FULL,35110 - Production of electricity,,6,,,,,0,,,,,,0,,no_site_found
+C,large,07229624,THE UNIVERSITY OF NOTTINGHAM STUDENTS' UNION,NG7 2RD,GROUP,94110 - Activities of business and employers membership organizations,,6,,,,,0,,,,,,0,,no_site_found
+C,large,SC401004,BARONY INTERNATIONAL LIMITED,KA11 5DJ,FULL,46450 - Wholesale of perfume and cosmetics,,9,barony.co.uk,guess,buydomainnames.co.uk,name_only,3,,,,,,0,[],site_unverified
+C,large,04116336,RV PROPERTY HOLDINGS LIMITED,SW1W 0AU,FULL,82990 - Other business support service activities n.e.c.,,12,rvproperty.com,guess,rvproperty.com,none,1,,,,,,0,[],site_unverified
+C,large,02969171,THE NATURAL WOODFLOOR COMPANY LIMITED,IG8 8HD,FULL,"46730 - Wholesale of wood, construction materials and sanitary equipment",,1,naturalwoodfloor.co.uk,guess,naturalwoodfloor.co.uk,crn,5,,,,,,0,[],site_ok_no_vat
+C,large,03566253,COMBINED CAPITAL LIMITED,NW4 4DD,GROUP,68209 - Other letting and operating of own or leased real estate,,6,combinedcapital.com,guess,combinedcapital.com,none,1,,,,,,0,[],site_unverified
+C,large,12967317,ITPS TOPCO LIMITED,DH2 1AQ,FULL,74990 - Non-trading company,,6,,,,,0,,,,,,0,,no_site_found
+C,large,04037220,TRAVEL SECTOR PROPERTY LIMITED,LN5 0AJ,GROUP,68209 - Other letting and operating of own or leased real estate,,6,,,,,0,,,,,,0,,no_site_found
+C,large,01499533,AGUSTAWESTLAND INTERNATIONAL LIMITED,BA20 2YB,FULL,30300 - Manufacture of air and spacecraft and related machinery,,9,agustawestland.com,guess,helicopters.leonardo.com,none,2,,,,,,0,[],site_unverified
+C,large,04395994,PARKING CONTROL MANAGEMENT (UK) LIMITED,BN26 6EA,FULL,82990 - Other business support service activities n.e.c.,,1,parkingcontrolmanagement.co.uk,wikidata,www.parkingcontrolmanagement.co.uk,crn,5,812960238,vat,mod97,https://www.parkingcontrolmanagement.co.uk/terms-conditions/,rkingcontrolmanagement.co.uk/ The registered VAT number is 812960238. You can contact by email on info@pcm-uk.co.uk.,1,"[{""vat"": ""812960238"", ""kind"": ""vat"", ""checksum"": ""mod97"", ""valid_format"": true, ""url"": ""https://www.parkingcontrolmanagement.co.uk/terms-conditions/"", ""same_page_as_crn"": true, ""snippet"": ""rkingcontrolmanagement.co.uk/ The registered VAT number is 812960238. You can contact by email on info@pcm-uk.co.uk.""}]",vat_candidate
+C,large,09745143,ENCYCLIS (CORBY) LIMITED,WC1H 9LT,FULL,"74909 - Other professional, scientific and technical activities n.e.c.",,3,encyclis.com,guess,www.encyclis.com,name_postcode,6,,,,,,0,[],site_ok_no_vat
+C,large,00015543,JPMORGAN AMERICAN INVESTMENT TRUST PLC,EC4Y 0JP,FULL,64301 - Activities of investment trusts,,6,,,,,0,,,,,,0,,no_site_found
+C,large,15007902,ENHANCING PATIENT CARE UK MIDCO 1 LIMITED,YO8 5DD,GROUP,64209 - Activities of other holding companies n.e.c.,,12,,,,,0,,,,,,0,,no_site_found
+C,large,00995939,RBC EUROPE LIMITED,EC2N 4AA,FULL,64191 - Banks,,6,rbc-europe.com,guess,www.rbc-europe.com,name_only,1,,,,,,0,[],site_unverified
+C,large,07068367,AIT HOME DELIVERY UK LTD.,NN5 7US,FULL,82990 - Other business support service activities n.e.c.,,12,aithomedelivery.co.uk,guess,aithomedelivery.com,name_only,5,,,,,,0,[],site_unverified
+C,large,OC303157,MCDONALD'S REAL ESTATE LLP,N2 8AW,FULL,None Supplied,,6,,,,,0,,,,,,0,,no_site_found
+C,large,03686730,XL PRECISION TECHNOLOGIES LIMITED,TS17 9JY,FULL,32500 - Manufacture of medical and dental instruments and supplies,,6,xlprecisiontechnologies.co.uk,guess,xlprecisiontechnologies.co.uk,none,1,,,,,,0,[],site_unverified
+C,large,FC010930,PARKE DAVIS & CO LIMITED,JE4 8XP,FULL,None Supplied,,12,,,,,0,,,,,,0,,no_site_found
+C,large,00178970,NRG GROUP LIMITED,NW1 3BF,FULL,70229 - Management consultancy activities other than financial management,,9,nrg-group.com,guess,nrg-group.com,name_only,4,,,,,,0,[],site_unverified
+C,large,09979860,N-ABLE INTERNATIONAL LTD,W1B 1DY,FULL,64209 - Activities of other holding companies n.e.c.,,12,nable.com,guess,www.n-able.com,name_only,6,,,,,,0,[],site_unverified
+C,large,13836711,TIBBETTS HOLDINGS LIMITED,OX16 1RH,GROUP,45310 - Wholesale trade of motor vehicle parts and accessories,,9,tibbetts.co.uk,guess,tibbetts.co.uk,name_only,1,,,,,,0,[],site_unverified

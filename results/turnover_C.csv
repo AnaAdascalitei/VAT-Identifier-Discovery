@@ -1,0 +1,101 @@
+CompanyNumber,CompanyName,Accounts.AccountCategory,SICCode.SicText_1,turnover,period_start,period_end,tag,revenue_like_tags,note,expectation
+01835168,ERIC WRIGHT WATER LIMITED,FULL,42910 - Construction of water projects,,,,,,no_ixbrl(AA),turnover_not_published
+12624347,AGORA BIDCO LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02798293,SUBSEA 7 WEST AFRICA CONTRACTING LIMITED,FULL,43999 - Other specialised construction activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+01090667,ORCHID ORTHOPEDIC SOLUTIONS SHEFFIELD LTD,FULL,32500 - Manufacture of medical and dental instruments and supplies,,,,,,no_ixbrl(AA),turnover_not_published
+04774153,LLOYD'S REGISTER CENTRAL AND SOUTH AMERICA LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+07209710,MOUNT ANVIL NEW HOLDINGS LIMITED,GROUP,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+13239725,MEDIPLUS HOLDINGS LIMITED,GROUP,82990 - Other business support service activities n.e.c.,15822036.0,,,text:Turnover (untagged),,filed 2026-06-24,group_turnover_holding_uncertain
+03220919,HMM (EUROPE) LIMITED,FULL,50200 - Sea and coastal freight water transport,,,,,,no_ixbrl(AA),turnover_not_published
+08776727,ICHIBAN UK LIMITED,FULL,10890 - Manufacture of other food products n.e.c.,29630494.0,2023-09-30,2024-09-27,e:TurnoverRevenue,,filed 2025-09-11,expected_registered
+06217134,HUBBARD PRODUCTS LIMITED,FULL,28250 - Manufacture of non-domestic cooling and ventilation equipment,23083445.0,,,text:Turnover (untagged),,filed 2025-12-02,expected_registered
+FC041289,VIVA TOPCO LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+14186908,ENVISION ENERGY INTERNATIONAL UK LIMITED,FULL,42220 - Construction of utility projects for electricity and telecommunications,12274116.0,2024-01-01,2024-12-31,c:TurnoverRevenue,,filed 2026-03-06,expected_registered
+04724906,APRILGRANGE LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+13386121,INTEC BUSINESS HOLDINGS LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+03746649,STEVE GREGOR PLUMBING AND HEATING LIMITED,FULL,"43220 - Plumbing, heat and air-conditioning installation",22551751.0,2024-08-01,2025-07-31,core:TurnoverRevenue,,filed 2026-01-28,expected_registered
+12428205,JUST AUTOMOTIVE HOLDINGS LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,filed 2026-04-02,turnover_not_published
+02396772,PEOPLE SOLUTIONS RESOURCING LIMITED,MEDIUM,78200 - Temporary employment agency activities,,,,,,no_ixbrl(AA),turnover_not_published
+09775525,EURIZON SLJ CAPITAL LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+15748325,STG PARTNERS UK LIMITED,FULL,66300 - Fund management activities,6819314.0,,,text:Revenue (untagged),,filed 2026-08-13,uncertain_exempt_sector
+SC467099,SAVANNAH ENERGY 2 LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+10990746,TONIES UK LIMITED,FULL,"46431 - Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played",,,,,,no_ixbrl(AA),turnover_not_published
+06973805,VALUELIGHTS LIMITED,FULL,47910 - Retail sale via mail order houses or via Internet,14298776.0,2024-07-01,2025-06-30,core:TurnoverRevenue,,filed 2026-03-30,expected_registered
+02271807,CNLR HORIZONS LIMITED,FULL,86900 - Other human health activities,,,,,,no_ixbrl(AA),turnover_not_published
+OC365712,CMS CAMERON MCKENNA NABARRO OLSWANG (SINGAPORE) LLP,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+00283695,SMART APPROACH GROUP PLC,GROUP,7415 - Holding Companies including Head Offices,,,,,,no_accounts_filed,turnover_not_published
+05598528,MAMG ASSET MANAGEMENT LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+NI033250,ENERGIA GROUP NI HOLDINGS LIMITED,FULL,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+03118990,ROBERTS HOMES (NORTH WALES) LIMITED,GROUP,87100 - Residential nursing care facilities,,,,,ns5:RevenueRecognitionPolicy,filed 2025-12-09,turnover_not_published
+08578451,SANTOS (UK) LIMITED,FULL,06100 - Extraction of crude petroleum,,,,,,no_ixbrl(AA),turnover_not_published
+14111862,ASCENSION CATHOLIC ACADEMY TRUST,GROUP,85200 - Primary education,,,,,,no_ixbrl(AA),turnover_not_published
+07800703,DBAY UK LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+11018290,NORTH SP GROUP LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+08298795,LOUSIN HOLDINGS LIMITED,GROUP,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+OC308106,ZERO THREE CARE HOMES LLP,FULL,None Supplied,16227298.0,,,text:Turnover (untagged),,filed 2026-07-09,uncertain_no_sic
+FC022016,SIRIUS APPLIED TECHNOLOGY LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+11058693,PHINIA FINANCIAL OPERATIONS UK LIMITED,FULL,64205 - Activities of financial services holding companies,,,,,,no_ixbrl(AA),turnover_not_published
+00301317,ENI ULT LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05933192,GALLAGHER HOLDINGS (UK) LIMITED,FULL,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+12231361,THE PEBBLE GROUP PLC,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02472965,THE WILLIAM HARVEY RESEARCH FOUNDATION,GROUP,72110 - Research and experimental development on biotechnology,,,,,,no_ixbrl(AA),turnover_not_published
+04756850,3B CONSTRUCTION LTD,FULL,41100 - Development of building projects,,,,,,no_ixbrl(AA),turnover_not_published
+03693465,"BRINK'S GLOBAL SERVICES, LTD.",FULL,52242 - Cargo handling for air transport activities,,,,,,no_ixbrl(AA),turnover_not_published
+14147117,POLARSEAL HOLDINGS LIMITED,GROUP,32500 - Manufacture of medical and dental instruments and supplies,18218444.0,,,text:Turnover (untagged),,filed 2026-05-15,group_turnover_holding_uncertain
+FC038761,R. BASILDON PROPCO LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+01221175,QUINN RADIATORS LIMITED,FULL,32990 - Other manufacturing n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+05735966,SSP GROUP PLC,GROUP,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+05375370,KINECX ENERGY LIMITED,FULL,35220 - Distribution of gaseous fuels through mains,,,,,,no_ixbrl(AA),turnover_not_published
+02074320,MAREL GB LTD,FULL,"46140 - Agents involved in the sale of machinery, industrial equipment, ships and aircraft",,,,,,no_ixbrl(AA),turnover_not_published
+04160087,CHARACTER WORLD LIMITED,MEDIUM,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+02067042,CRAWFORD & COMPANY ADJUSTERS LIMITED,FULL,66290 - Other activities auxiliary to insurance and pension funding,,,,,,no_ixbrl(AA),turnover_not_published
+09081452,PINEAPPLE POWER CORPORATION PLC,FULL,74990 - Non-trading company,,,,,,no_ixbrl(AA),turnover_not_published
+FC040796,COMMUNITY FIBRE HOLDINGS GUERNSEY LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+12225042,LSEGA2 LIMITED,FULL,74990 - Non-trading company,,,,,,no_ixbrl(AA),turnover_not_published
+04715529,SANDRA DAVIDSON ESTATE AGENTS LIMITED,FULL,68310 - Real estate agencies,7892045.0,,,text:Turnover (untagged),,filed 2026-03-30,uncertain_exempt_sector
+FC017532,RUCANOR EUROPE B.V.,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+06548489,PEPPER (UK) LIMITED,FULL,64922 - Activities of mortgage finance companies,,,,,,no_ixbrl(AA),turnover_not_published
+SC664318,MOLE GP 2 LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+13257832,SUNRISE UK TOPCO LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+OC436409,LAURUS LOVELL WHALLEY LLP,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+09092149,STARLING BANK LIMITED,GROUP,64191 - Banks,,,,,,no_ixbrl(AA),turnover_not_published
+13596821,NGE HOLDINGS GP LIMITED,FULL,68310 - Real estate agencies,,,,,,no_ixbrl(AA),turnover_not_published
+09346040,SSP MIDCO 2 LIMITED,FULL,62090 - Other information technology service activities,0.0,2025-01-01,2025-12-31,core:TurnoverRevenue,,filed 2026-05-29,below_threshold_voluntary_possible
+13768693,FRANK KEY HOLDINGS LIMITED,GROUP,46130 - Agents involved in the sale of timber and building materials,30668167.0,,,text:Turnover (untagged),,filed 2026-09-30,group_turnover_holding_uncertain
+03175203,SPINAL INJURIES ASSOCIATION,GROUP,88100 - Social work activities without accommodation for the elderly and disabled,,,,,,no_ixbrl(AA),turnover_not_published
+12369633,APEX TOPCO LIMITED,GROUP,64205 - Activities of financial services holding companies,57378.0,,,text:Turnover (untagged),,filed 2025-10-17,holding_low_turnover
+03227575,MILLENNIUM POINT TRUST,GROUP,85320 - Technical and vocational secondary education,,,,,,no_ixbrl(AA),turnover_not_published
+06729212,ESPORTA MANAGEMENT SERVICES LIMITED,FULL,70100 - Activities of head offices,,,,,,no_ixbrl(AA),turnover_not_published
+FC009008,CYPRAIR TOURS LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+02897594,HOOBROOK HOLDINGS LIMITED,GROUP,13931 - Manufacture of woven or tufted carpets and rugs,,,,,,no_ixbrl(AA),turnover_not_published
+14746622,ENICOR GROUP LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,ns5:RevenueRecognitionPolicy,filed 2026-02-13,turnover_not_published
+09745143,ENCYCLIS (CORBY) LIMITED,FULL,"74909 - Other professional, scientific and technical activities n.e.c.",,,,,,no_ixbrl(AA),turnover_not_published
+12113472,WS TRANSPORTATION LIMITED,GROUP,52290 - Other transportation support activities,,,,,,filed 2026-07-06,turnover_not_published
+SC070131,GLENDALE PLASTICS LIMITED,GROUP,22220 - Manufacture of plastic packing goods,,,,,,no_ixbrl(AA),turnover_not_published
+00197935,COSBY BRUSHES (CHRH) LTD.,GROUP,32910 - Manufacture of brooms and brushes,,,,,,filed 2026-09-30,turnover_not_published
+06490778,VITA RAY PRODUCTIONS U.K. LIMITED,FULL,59111 - Motion picture production activities,64968.0,,,text:Turnover (untagged),,filed 2025-12-15,below_threshold_voluntary_possible
+06327802,OPEN DOORS WITH BROTHER ANDREW,FULL,94910 - Activities of religious organizations,,,,,,filed 2026-07-06,turnover_not_published
+FC028068,CONNECTED SERVICES CORPORATION WIPRO INDIA PRIVATE LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+01499533,AGUSTAWESTLAND INTERNATIONAL LIMITED,FULL,30300 - Manufacture of air and spacecraft and related machinery,,,,,,no_ixbrl(AA),turnover_not_published
+04040767,MERIT OFFICE INSTALLATIONS LIMITED,FULL,52103 - Operation of warehousing and storage facilities for land transport activities,11831868.0,,,text:Turnover (untagged),,filed 2026-10-23,expected_registered
+07459630,ASMPT UK HOLDING LIMITED,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+07068367,AIT HOME DELIVERY UK LTD.,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+SC373245,DAVIS TRACK HIRE LTD,MEDIUM,96090 - Other service activities n.e.c.,12218887.0,2025-03-01,2026-02-28,ns5:TurnoverRevenue,,filed 2026-08-05,expected_registered
+FC010930,PARKE DAVIS & CO LIMITED,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+SC401004,BARONY INTERNATIONAL LIMITED,FULL,46450 - Wholesale of perfume and cosmetics,41115.0,,,text:Turnover (untagged),,filed 2025-12-15,below_threshold_voluntary_possible
+07873618,TYNEMOUTH BATTERY STORAGE LIMITED,FULL,35110 - Production of electricity,,,,,,no_ixbrl(AA),turnover_not_published
+04116336,RV PROPERTY HOLDINGS LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+07229624,THE UNIVERSITY OF NOTTINGHAM STUDENTS' UNION,GROUP,94110 - Activities of business and employers membership organizations,,,,,,no_ixbrl(AA),turnover_not_published
+02969171,THE NATURAL WOODFLOOR COMPANY LIMITED,FULL,"46730 - Wholesale of wood, construction materials and sanitary equipment",,,,,,no_ixbrl(AA),turnover_not_published
+12967317,ITPS TOPCO LIMITED,FULL,74990 - Non-trading company,,,,,,filed 2025-12-16,turnover_not_published
+03566253,COMBINED CAPITAL LIMITED,GROUP,68209 - Other letting and operating of own or leased real estate,,,,,,no_ixbrl(AA),turnover_not_published
+04037220,TRAVEL SECTOR PROPERTY LIMITED,GROUP,68209 - Other letting and operating of own or leased real estate,,,,,ns5:RevenueRecognitionPolicy,filed 2026-07-23,turnover_not_published
+04395994,PARKING CONTROL MANAGEMENT (UK) LIMITED,FULL,82990 - Other business support service activities n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+15007902,ENHANCING PATIENT CARE UK MIDCO 1 LIMITED,GROUP,64209 - Activities of other holding companies n.e.c.,,,,,,no_ixbrl(AA),turnover_not_published
+00178970,NRG GROUP LIMITED,FULL,70229 - Management consultancy activities other than financial management,,,,,,no_ixbrl(AA),turnover_not_published
+00015543,JPMORGAN AMERICAN INVESTMENT TRUST PLC,FULL,64301 - Activities of investment trusts,,,,,,no_ixbrl(AA),turnover_not_published
+00995939,RBC EUROPE LIMITED,FULL,64191 - Banks,,,,,,no_ixbrl(AA),turnover_not_published
+OC303157,MCDONALD'S REAL ESTATE LLP,FULL,None Supplied,,,,,,no_ixbrl(AA),turnover_not_published
+13836711,TIBBETTS HOLDINGS LIMITED,GROUP,45310 - Wholesale trade of motor vehicle parts and accessories,52434962.0,,,text:Turnover (untagged),,filed 2025-12-16,group_turnover_holding_uncertain
+03686730,XL PRECISION TECHNOLOGIES LIMITED,FULL,32500 - Manufacture of medical and dental instruments and supplies,,,,,,no_ixbrl(AA),turnover_not_published
+09979860,N-ABLE INTERNATIONAL LTD,FULL,64209 - Activities of other holding companies n.e.c.,,,,,,filed 2026-09-21,turnover_not_published

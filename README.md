@@ -142,16 +142,16 @@ HMRC check     every number: valid AND name matches the company
 
 ### Results on sample C: the 7 companies that should be registered
 
-Screenshots of every HMRC check are in the repo root.
+Screenshots of every HMRC check are in the repo root and shown below.
 
 | Company | VAT | HMRC | On own site | Pipeline | Evidence |
 |---|---|---|---|---|---|
-| Steve Gregor Plumbing and Heating | 543162171 | valid | yes | **found** (hand-found domain) | `543162171_steve_gregor_hmrc.png` |
-| ValueLights | 995942647 | valid | yes | **found** (automatic) | `995942647_valuelights_hmrc.png`, `995942647_valuelights_website_terms.png` |
-| Hubbard Products | 905112567 | valid | no | missed | `905112567_hubbard_products_hmrc.png` |
-| Ichiban UK | 176707773 | valid | no | missed | `176707773_ichiban_uk_hmrc.png` |
-| Envision Energy International UK | 420211272 | valid | no | missed | `420211272_envision_energy_hmrc.png` |
-| Davis Track Hire | 991064409 | valid | no | missed | `991064409_davis_track_hire_aggregator_and_hmrc.png` |
+| Steve Gregor Plumbing and Heating | 543162171 | valid | yes | **found** (hand-found domain) | [543162171_steve_gregor_hmrc.png](543162171_steve_gregor_hmrc.png) |
+| ValueLights | 995942647 | valid | yes | **found** (automatic) | [995942647_valuelights_hmrc.png](995942647_valuelights_hmrc.png), [995942647_valuelights_website_terms.png](995942647_valuelights_website_terms.png) |
+| Hubbard Products | 905112567 | valid | no | missed | [905112567_hubbard_products_hmrc.png](905112567_hubbard_products_hmrc.png) |
+| Ichiban UK | 176707773 | valid | no | missed | [176707773_ichiban_uk_hmrc.png](176707773_ichiban_uk_hmrc.png) |
+| Envision Energy International UK | 420211272 | valid | no | missed | [420211272_envision_energy_hmrc.png](420211272_envision_energy_hmrc.png) |
+| Davis Track Hire | 991064409 | valid | no | missed | [991064409_davis_track_hire_aggregator_and_hmrc.png](991064409_davis_track_hire_aggregator_and_hmrc.png) |
 | Merit Office Installations | not found anywhere | n/a | no | missed | n/a |
 
 | Metric | Value | 95% interval |
@@ -159,6 +159,26 @@ Screenshots of every HMRC check are in the repo root.
 | Recall (found / should be registered) | **2/7 = 29%** | 8–64% |
 | Fully automatic | 1/7 = 14% | 3–51% |
 | Number on own website (ceiling for any crawler) | 2/7 = 29% | 8–64% |
+
+### HMRC screenshots
+
+Found by the pipeline:
+
+| | |
+|---|---|
+| <img src="543162171_steve_gregor_hmrc.png" width="320"><br>Steve Gregor, 543162171 | <img src="995942647_valuelights_hmrc.png" width="320"><br>ValueLights, 995942647 |
+| <img src="995942647_valuelights_website_terms.png" width="320"><br>ValueLights: number on its own terms page | <img src="743241553_future_forestry_hmrc.png" width="320"><br>Future Forestry, 743241553 (sample B) |
+
+Missed by the pipeline (numbers found by hand, on aggregators):
+
+| | |
+|---|---|
+| <img src="905112567_hubbard_products_hmrc.png" width="320"><br>Hubbard Products, 905112567 | <img src="176707773_ichiban_uk_hmrc.png" width="320"><br>Ichiban UK, 176707773 |
+| <img src="420211272_envision_energy_hmrc.png" width="320"><br>Envision Energy International UK, 420211272 | <img src="991064409_davis_track_hire_aggregator_and_hmrc.png" width="320"><br>Davis Track Hire, 991064409 (aggregator page + HMRC) |
+
+The rejected-site case:
+
+<img src="213818814_yolo_ponteland_hmrc.png" width="320"><br>Yolo (Ponteland): the real number is 213818814, not 455078773 from the guessed site.
 
 ### False positives
 
@@ -169,13 +189,13 @@ Screenshots of every HMRC check are in the repo root.
 |---|---|
 | Candidates from verified company sites | 4 |
 | Rejected by HMRC (stale) | **1/4** (Parking Control Management, `812960238`) |
-| **Final numbers** | 3: Gregor, ValueLights, Future Forestry (`743241553_future_forestry_hmrc.png`) |
+| **Final numbers** | 3: Gregor, ValueLights, Future Forestry ([743241553_future_forestry_hmrc.png](743241553_future_forestry_hmrc.png)) |
 | **False positives** | **0/3** (interval 0–56%; too few to be precise) |
 
 - Name matching must be normalised: HMRC writes "& ... LTD", Companies House "AND ... LIMITED".
 - **Wrong numbers I avoided:**
   - **Yolo (Ponteland):** a guessed site (yolo.co.uk) had `455078773`, but only the name
-    matched → rejected. The real number is `213818814` (`213818814_yolo_ponteland_hmrc.png`).
+    matched → rejected. The real number is `213818814` ([213818814_yolo_ponteland_hmrc.png](213818814_yolo_ponteland_hmrc.png)).
   - **Mediplus Holdings:** a valid number exists, but it belongs to sister company Mediplus Ltd.
   - Group sites, a parked domain, and 31 sites of other companies.
 
